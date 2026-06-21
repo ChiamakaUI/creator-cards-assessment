@@ -2,7 +2,7 @@
 
 REST API for shareable creator profile cards with link aggregation and rate cards. Submission for the Resilience 17 Backend Engineer assessment.
 
-Base URL: `https://<railway-url>`
+Base URL: `https://creator-cards-assessment.up.railway.app`
 
 ## Stack
 
